@@ -2,7 +2,7 @@
 * The ipynb file
 * The train file (`train.csv`)
 * The test file (`test.csv`)
-* keras file (``)
+* keras file (`best_model.h5.keras`)
 
 ## The ipynb file
 * The ipynb file is where the model is trained on the train and the test set with accuracy as the performance metric.
