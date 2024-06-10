@@ -2,6 +2,7 @@
 * The ipynb file
 * The train file (`train.csv`)
 * The test file (`test.csv`)
+* keras file (``)
 
 ## The ipynb file
 * The ipynb file is where the model is trained on the train and the test set with accuracy as the performance metric.
@@ -11,3 +12,4 @@
 
 ## Use case:
 * If the review and review title are two separate inputs be sure to concatenate and clean the text before passing the text into the model.
+* The syntax for loading the model and preprocessing it is provided in the ipynb notebook as well.
